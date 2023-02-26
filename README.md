@@ -1,6 +1,6 @@
 ## Hello there!👋
 ### I'm Yi
-<img align="right" src="https://i.imgur.com/5lcKf1m.png" height="250" width="400"/>
+<img align="right" src="https://i.imgur.com/5lcKf1m.png" height="200" width="300"/>
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast, open to learning new technologies.
 - 🌱 Currently working in Valencia, Vzla.
