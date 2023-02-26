@@ -1,31 +1,50 @@
-<h1 align="center">
- <img src="https://i.imgur.com/5lcKf1m.png" height="230"/>
-</h1>
+## Hello there!👋
+### I'm Yi
+<img align="right" src="https://i.imgur.com/5lcKf1m.png" height="250" width="400"/>
 
-<h1 align="center">你好👋, I'm Yi D.</h1>
-<h3 align="center">Dmail-- not yet</h3>
-
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast, open to learning new technologies.
+- 🌱 Currently working in Valencia, Vzla.
+- 💬 Dm to cooperate in proyects and more.
 - 🔭 I’m currently working on **my time dude :c**
-
 - 🤝 I’m looking for help with **my life damn**
+- 👽 I’m currently learning **vue, laravel, mern**
 
-- 🌱 I’m currently learning **vue, laravel, to time-travel**
+### 🛠 技术栈 | Tech Stack
 
+- Frontend💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
+![javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+- Backend🛢 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- Frameworks🌐 &#160; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+- Tools🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- Others✏️ &#160; ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=AdobePhotoshop)
+![Filmora](https://img.shields.io/badge/-Filmora-333333?style=flat&logo=Filmora)
+![matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Matlab)
+![octave](https://img.shields.io/badge/-Octave-333333?style=flat&logo=octave)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=MicrosoftExcel)
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
-- Ya quisieras xdxd **no ip included 🧐**
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/yhws26)
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/)
+[<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/)
+[<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/)
 
-<p align="left">
-</p>
+### 关于我 | About me
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://enacademic.com/pictures/enwiki/86/VBA_logo.svg" alt="Visual Basic" width="90" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhws26&show_icons=true&locale=en&layout=compact" alt="yhws26" /></p><br><br><br><br><br><br><br><br>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Wondershare_filmora_logo.svg" alt="filmora" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width="40" height="40"/> </a></p>
+>***Id love to time travel contact me***
 
-<h3 align="left">Support:</h3>
-
-need some money uwu💀 **thisisnotajokehelpxd**
-<p><a href=""> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="need money xd" /></a></p><br><br>
+ ```El Psy Kongroo```
+ 
