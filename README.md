@@ -14,6 +14,8 @@
 - Frontend💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
 ![javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+![ejs](https://img.shields.io/badge/-Ejs-333333?style=flat&logo=ejs)
+![sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
 - Backend🛢 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
